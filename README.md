@@ -129,7 +129,8 @@
 		
 	
 local server: "http://localhost:4000"
-Cloud server: "https://hireeasy-server.herokuapp.com"
+Cloud server: "https://hireeasy-server.herokuapp.com"  //Nabil
+Cloud server: "https://hireeasycloudserver.herokuapp.com"   //Liping
 
 # How to Set Up a google map project and Get Google API key?
 https://developers.google.com/maps/gmp-get-started#create-project
